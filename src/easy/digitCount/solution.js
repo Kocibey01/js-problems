@@ -4,6 +4,6 @@ function countsDigits(num) {
     return numDigits; // And it return the length as the number of digits.
 }
 // So, when we test the function
-console.log(countsDigits (35)); // Output: 2
+console.log(countsDigits (35)); // Output: 1
 console.log(countsDigits (516)); // Output: 3 
 console.log(countsDigits (123456789)); // Output:9
