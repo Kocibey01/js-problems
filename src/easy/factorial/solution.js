@@ -11,4 +11,4 @@ function numFactorial(number) {
     return result
 }
 
-console.log(numFactorial(4))
+console.log(numFactorial(5))
